@@ -1,0 +1,15 @@
+export const APP_ROUTES = [
+  { path: '/' },
+  { path: '/assets-manager' },
+  { path: '/campaign' },
+  { path: '/clients' },
+  { path: '/downloads' },
+  { path: '/image-search' },
+  { path: '/login' },
+  { path: '/project/:projectid/client/:clientid' },
+  { path: '/projects' },
+  { path: '/releases' },
+  { path: '/settings' },
+  { path: '/tags' },
+  { path: '/tags/settings' },
+];
